@@ -1,0 +1,18 @@
+# File environment Python
+__pycache__/
+*.pyc
+.env
+.venv
+venv/
+pycaret-env/
+
+# Data Augmentasi (SANGAT PENTING)
+# Folder ini berisi 200 file WAV dan terlalu besar untuk GitHub
+data/voice_augmented/
+
+# Checkpoint Jupyter Notebook
+.ipynb_checkpoints/
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
